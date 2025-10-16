@@ -4,4 +4,4 @@ This Chrome extension does not collect, store, or transmit any personally identi
 
 No user data is sold, shared, or used for advertising purposes. The extension complies with Chrome Web Store Developer Program Policies.
 
-If you have questions, contact: [your email here]
+If you have questions, contact: vietemt@gmail.com
